@@ -2,7 +2,8 @@
 
 This repository is an pytorch implementation of [Learning Deep Features for Discriminative Localization](https://arxiv.org/abs/1512.04150). 
 
-<img src="https://github.com/facebookresearch/FixRes/blob/master/image/image2.png" height="190">
+<img src="https://github.com/Harry24k/CAM/blob/master/images/0.png" height="190">
+<img src="https://github.com/Harry24k/CAM/blob/master/images/1.png" height="190">
 
 It is modified from https://github.com/metalbubble/CAM/blob/master/pytorch_CAM.py.
 
